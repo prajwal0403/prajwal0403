@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-prajwal-raut.vercel.app/](https://portfolio-prajwal-raut.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-prajwal-raut.vercel.app/](https://portfolio-prajwal.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@rautprajwal546](https://medium.com/@rautprajwal546)
 
