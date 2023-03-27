@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwal0403" alt="prajwal0403" /></a> </p>
 
-- 🌱 I’m a **MERN Stack develooper**
+- 🌱 I’m a **MERN Stack developer**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-prajwal-raut.vercel.app/](https://portfolio-prajwal-raut.vercel.app/)
 
