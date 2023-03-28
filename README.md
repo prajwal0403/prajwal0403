@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rautprajwal546@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JZkZ6P6f9cQPdvcVqAT-a5gq-BDiIw1h/view](https://drive.google.com/file/d/1JZkZ6P6f9cQPdvcVqAT-a5gq-BDiIw1h/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/101cYxH762sHspvSLLEAoYhaaWCQmFVNf?usp=share_link)
 
 - ⚡ Fun fact **Believe it or not, but you can't win against me in FIFA.**
 
