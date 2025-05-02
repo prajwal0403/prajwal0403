@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **MERN Stack developer**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-prajwal-raut.vercel.app/](https://portfolio-prajwal-raut.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-prajwal-raut.vercel.app/](https://my-portfolio-black-phi-95.vercel.app/)
 
 - 📝 I regularly/sometimes write articles on [https://medium.com/@rautprajwal546](https://medium.com/@rautprajwal546)
 
